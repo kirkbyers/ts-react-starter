@@ -1,0 +1,11 @@
+node_modules
+.config
+vol
+*.env
+.npm
+.ash_history
+.next
+*.csv
+*.js
+dist
+.cache
